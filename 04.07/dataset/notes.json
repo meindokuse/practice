@@ -1,0 +1,37 @@
+{
+  "categories": [
+    {
+      "id": 0,
+      "name": "Task 22"
+    },
+    {
+      "id": 1,
+      "name": "Task 23"
+    },
+    {
+      "id": 2,
+      "name": "Task 24"
+    },
+    {
+      "id": 3,
+      "name": "Task 25"
+    },
+    {
+      "id": 4,
+      "name": "Task 26"
+    },
+    {
+      "id": 5,
+      "name": "Task 27"
+    },
+    {
+      "id": 6,
+      "name": "Task 28"
+    }
+  ],
+  "info": {
+    "year": 2025,
+    "version": "1.0",
+    "contributor": "Label Studio"
+  }
+}
