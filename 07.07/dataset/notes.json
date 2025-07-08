@@ -1,0 +1,37 @@
+{
+  "categories": [
+    {
+      "id": 0,
+      "name": "answer_22"
+    },
+    {
+      "id": 1,
+      "name": "answer_23"
+    },
+    {
+      "id": 2,
+      "name": "answer_24"
+    },
+    {
+      "id": 3,
+      "name": "answer_25"
+    },
+    {
+      "id": 4,
+      "name": "answer_26"
+    },
+    {
+      "id": 5,
+      "name": "answer_27"
+    },
+    {
+      "id": 6,
+      "name": "answer_28"
+    }
+  ],
+  "info": {
+    "year": 2025,
+    "version": "1.0",
+    "contributor": "Label Studio"
+  }
+}

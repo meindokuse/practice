@@ -1,0 +1,31 @@
+{
+    "data":
+        {
+            "blocks":null,
+            "rotate":0,
+            "imgsize":
+                {
+                    "h":2590,
+                    "w":2310
+                },
+            "erased_image":null,
+            "lang":"rus",
+            "entities":null,
+            "text":"",
+            "fulltext":null,
+            "aggregated_stat":0,
+            "timeLimit":
+                {
+                    "percent":100,
+                    "stopped_by_timeout":false
+                },
+            "tables":
+                [
+                ],
+            "focused_image":false,
+            "max_line_confidence":null,
+            "camera_move":"no_text",
+            "istext":0
+        },
+    "status":"success"
+}
