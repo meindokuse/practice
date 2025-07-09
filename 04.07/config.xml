@@ -1,0 +1,8 @@
+<View>
+  <Image name="image" value="$image"/>
+  <RectangleLabels name="bbox" toName="image">
+    <Label value="question" background="green"/>
+    <Label value="text" background="blue"/>
+  </RectangleLabels>
+  <Text name="variant" value="$variant"/>
+</View>
