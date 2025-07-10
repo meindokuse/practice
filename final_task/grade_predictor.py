@@ -30,7 +30,7 @@ def train_model(X, y, save_path='grade_predictor.pkl'):
             ('tfidf', TfidfVectorizer(
                 max_features=15000,
                 ngram_range=(1, 3),
-                stop_words=['который', 'которые', 'это', 'какой', 'какая'],
+                stop_words=[],
                 min_df=2,
                 max_df=0.85,
                 sublinear_tf=True)),
